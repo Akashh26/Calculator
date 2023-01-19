@@ -1,0 +1,31 @@
+.text-center{
+    text-align: center;
+    font-size: 40px;
+}
+
+.bg-red{
+    background: #231f1f;
+}
+
+.mx-auto{
+    margin:auto;
+}
+
+
+.flex{
+    display: flex;
+
+}
+.flex-col{
+    flex-direction: column;
+
+}
+.items-center{
+    align-items: center;
+}
+
+.bottom{
+    text-align: center;
+    font-size: 20px;
+    padding-top: 10px;
+}

@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&family=Lobster&display=swap');
+html,body{
+    height: 100%;
+    width: 100%;
+    font-family: 'Fredoka One', cursive;
+    background-color: #8d8d8d;
+}
+
+.button{
+    width: 60px;
+    padding: 20px;
+    margin: 0 3px;
+    border: 2px solid #4d6083;
+    border-radius: 15px;
+    cursor: pointer;
+    text-size-adjust: 10px;
+    font-size: 15px;
+}
+
+.row{
+    margin: 8px 0;
+}
+.row input{
+    width: 270px;
+    font-size:20px ;
+    margin: 0;
+    padding: 15px 0;
+    border: 2px solid #4d6083;
+    border-radius: 10px;
+}
